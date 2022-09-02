@@ -4,11 +4,19 @@
 
 For fetching your articles from dev.to, create an `.env.local` file inside the project directory. Check the `.env.local.example` file for more information.
 
+## Install Dependencies
+
+```bash
+npm install
+# ou
+yarn install
+```
+
 ## Running Development Server
 
 ```bash
 npm run dev
-# or
+# ou
 yarn dev
 ```
 
