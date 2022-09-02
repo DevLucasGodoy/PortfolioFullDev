@@ -1,5 +1,9 @@
 # Portfólio Pessoal de Desenvolvedor
 
+<h4 align="center"> 
+	🚧  Projeto em Desenvolvimento  🚧
+</h4>
+
 ## Environment Variables
 
 For fetching your articles from dev.to, create an `.env.local` file inside the project directory. Check the `.env.local.example` file for more information.
