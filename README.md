@@ -1,8 +1,14 @@
-# Portfólio Pessoal de Desenvolvedor
+<h1 align="center">Portfólio Pessoal de Desenvolvedor</h1>
 
-<h4 align="center"> 
+<h3 align="center"> 
 	🚧  Projeto em Desenvolvimento  🚧
-</h4>
+</h3>
+
+## Features
+
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
 
 ## Environment Variables
 
