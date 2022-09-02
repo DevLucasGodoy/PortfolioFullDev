@@ -37,7 +37,7 @@ const ContactPage = () => {
         <form className={styles.form} onSubmit={submitForm}>
           <div className={styles.flex}>
             <div>
-              <label htmlFor="name">Name</label>
+              <label htmlFor="name">Nome</label>
               <input
                 type="text"
                 name="name"
@@ -60,7 +60,7 @@ const ContactPage = () => {
             </div>
           </div>
           <div>
-            <label htmlFor="name">Subject</label>
+            <label htmlFor="name">Assunto</label>
             <input
               type="text"
               name="subject"
@@ -71,7 +71,7 @@ const ContactPage = () => {
             />
           </div>
           <div>
-            <label htmlFor="message">Message</label>
+            <label htmlFor="message">Mensagem</label>
             <textarea
               name="message"
               id="message"
@@ -81,7 +81,7 @@ const ContactPage = () => {
               required
             ></textarea>
           </div>
-          <button type="submit">Submit</button>
+          <button type="submit">Enviar</button>
         </form>
       </div>
     </div>
