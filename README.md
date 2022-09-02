@@ -4,11 +4,15 @@
 	🚧  Projeto em Desenvolvimento  🚧
 </h3>
 
-## Features
+## Etapas de Produção
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [x] Page Home.jsx
+- [x] Page About.html
+- [x] Page Contact.css
+- [ ] Page Projects.js
+- [ ] Page Articles.json
+- [ ] Page Github.md
+- [x] Temas
 
 ## Environment Variables
 
