@@ -6,7 +6,9 @@ import styles from '../styles/GithubPage.module.css';
 const GithubPage = ({ repos, user }) => {
   return (
     <>
-
+      <h3>
+        Recent Posts from
+      </h3>
     </>
   );
 };
