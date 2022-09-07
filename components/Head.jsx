@@ -14,7 +14,7 @@ const CustomHead = ({ title }) => {
         property="og:description"
         content="Portfólio de Lucas Godoy, desenvolvedor web Full Stack."
       />
-      <meta property="og:url" content="https://vscode-portfolio.vercel.app" />
+      <meta property="og:url" content="https://portfolio-dev-lucas-godoy.vercel.app/" />
     </Head>
   );
 };
