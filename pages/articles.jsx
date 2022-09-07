@@ -5,8 +5,12 @@ const ArticlesPage = ({ articles }) => {
   return (
     <>
       <h3>
-        Recent Posts from
+      🚧  Página em Produção  🚧
       </h3>
+      <br/>
+      <p>
+        Fique por dentro das novidades para não perder o lançamento da página.
+      </p>
     </>
   );
 };
