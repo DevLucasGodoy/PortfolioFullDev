@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
+    "name": "CardNFT",
     "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "description": "Projeto na produção de um card para uma NFT, com base no tema sobre a copa do mundo.",
+    "tags": ["html", "css"],
+    "source_code": "https://github.com/DevLucasGodoy/CardNFT",
+    "demo": "https://card-nft-henna.vercel.app/"
   },
   {
     "id": 2,
