@@ -16,6 +16,4 @@ const ArticlesPage = ({ articles }) => {
   );
 };
 
-
-
 export default ArticlesPage;
