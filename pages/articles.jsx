@@ -1,5 +1,6 @@
 import ArticleCard from '../components/ArticleCard';
 import styles from '../styles/ArticlesPage.module.css';
+import React, { useEffect, useRef } from "react";
 
 const ArticlesPage = ({ articles }) => {
   return (
@@ -14,5 +15,7 @@ const ArticlesPage = ({ articles }) => {
     </>
   );
 };
+
+
 
 export default ArticlesPage;
