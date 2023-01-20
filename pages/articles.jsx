@@ -16,4 +16,10 @@ const ArticlesPage = ({ articles }) => {
   );
 };
 
+export async function getStaticProps() {
+  return {
+    props: { title: 'Currículo' },
+  };
+}
+
 export default ArticlesPage;
