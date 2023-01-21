@@ -9,8 +9,8 @@
 - [x] Page Home.jsx
 - [x] Page About.html
 - [x] Page Contact.css
-- [ ] Page Projects.js
-- [ ] Page Articles.json
+- [X] Page Projects.js
+- [ ] Page Curriculo.json
 - [ ] Page Github.md
 - [x] Temas
 
