@@ -10,7 +10,7 @@
 - [x] Page About.html
 - [x] Page Contact.css
 - [X] Page Projects.js
-- [ ] Page Curriculo.json
+- [X] Page Curriculo.json
 - [ ] Page Github.md
 - [x] Temas
 
