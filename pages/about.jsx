@@ -36,7 +36,7 @@ const AboutPage = () => {
       <br />
       <p>
         Desde então sigo realizando estágio na empresa Ganso Sistemas como analista de suporte e nas horas 
-        vagas trabalho como freelancer de projetos web, através do site da <a href="https://devetech.vercel.app/">Dev & Tech</a>, 
+        vagas trabalho como freelancer de projetos web, através do site da <a href="https://www.firstclassdev.com.br/">First Class Dev</a>, 
         com o principal objetivo buscar novos desafios e experiencia para me desenvolver cada vez mais como um profissional completo 
         no mundo da programação.
       </p>
